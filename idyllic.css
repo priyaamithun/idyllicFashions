@@ -1,0 +1,75 @@
+.container-fluid{
+
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+.brand-name{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    
+}
+
+.btn{
+    padding-right: 50px;
+}
+
+.updates-container{
+    background-color: black;
+    height:300px;
+    width:100%;
+    text-align: center;
+}
+
+    
+
+.service-container{
+    background-color:white;
+    height:300px;
+    width:100%;
+}
+.content{
+    background-color: lightslategrey;
+    height:350px;
+    width:100%;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+
+
+
+.box2{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+    
+    float: right;
+    padding
+
+}
+
+
+
+
+.footer-container{
+    background-color: black;
+    height:200px;
+    width:100%;
+    text-align: center;
+    padding-top: 40px;
+
+}
+a{
+    padding-right: 20px;
+}
+
+
+.advertise-container{
+    background-color:white;
+    height:100px;
+    width:100%;
+}
